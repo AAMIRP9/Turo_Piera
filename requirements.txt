@@ -2,4 +2,4 @@ pandas
 matplotlib
 mplsoccer
 seaborn
-PIL
+Pillow
