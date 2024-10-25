@@ -1,0 +1,81 @@
+Macthweek,Opposition,Player Number,Player Team,Min,Sec,X,Y,Situation ,ShotType ,xG,Result 
+1,Balaguer ,11,Turo,4,50,76,54,OpenPlay,LeftFoot,0.028,No Goal
+1,Balaguer ,20,Balaguer,6,4,18,93,OpenPlay,RightFoot,0.001,No Goal
+1,Balaguer ,8,Balaguer,9,40,26,66,OpenPlay,RightFoot,0.018,No Goal
+1,Balaguer ,7,Balaguer,20,7,11,35,OpenPlay,RightFoot,0.111,No Goal
+1,Balaguer ,20,Balaguer,28,35,10,33,OpenPlay,RightFoot,0.04,No Goal
+1,Balaguer ,7,Turo,32,59,77,63,OpenPlay,LeftFoot,0.024,No Goal
+1,Balaguer ,7,Turo,36,11,93,50,OpenPlay,RightFoot,0.185,No Goal
+1,Balaguer ,10,Balaguer,36,53,27,38,OpenPlay,LeftFoot,0.023,No Goal
+1,Balaguer ,5,Balaguer,42,13,19,10,Freekick,RightFoot,0.009,No Goal
+1,Balaguer ,6,Turo,43,18,68,46,OpenPlay,LeftFoot,0.019,No Goal
+1,Balaguer ,8,Balaguer,43,42,13,39,OpenPlay,RightFoot,0.081,No Goal
+1,Balaguer ,22,Balaguer,48,5,94,54,OpenPlay,Head,0.182,No Goal
+1,Balaguer ,14,Balaguer,51,42,92,74,OpenPlay,RightFoot,0.049,No Goal
+1,Balaguer ,7,Turo,54,19,11,38,OpenPlay,RightFoot,0.095,No Goal
+1,Balaguer ,18,Turo,78,51,10,66,OpenPlay,RightFoot,0.126,No Goal
+1,Balaguer ,9,Turo,79,33,18,81,OpenPlay,RightFoot,0.016,No Goal
+1,Balaguer ,7,Turo,80,5,30,74,OpenPlay,RightFoot,0.023,No Goal
+1,Balaguer ,22,Turo,84,29,25,50,OpenPlay,RightFoot,0.027,No Goal
+1,Balaguer ,23,Balaguer,85,46,84,44,OpenPlay,Head,0.086,No Goal
+1,Balaguer ,14,Balaguer,89,45,81,70,OpenPlay,RightFoot,0.0031,No Goal
+1,Balaguer ,22,Turo,90,0,11,58,OpenPlay,RightFoot,0.189,No Goal
+1,Balaguer ,7,Turo,90,0,10,68,OpenPlay,RightFoot,0.068,
+3,Igualada,23,Igualada,N/A,N/A,92,31,OpenPlay,Head,0.042,No Goal
+3,Igualada,24,Igualada,N/A,N/A,77,12,OpenPlay,RightFoot,0.01,Goal
+3,Igualada,9,Turo,N/A,N/A,9,62,OpenPlay,LeftFoot,0.051,Goal
+3,Igualada,18,Turo,N/A,N/A,18,50,OpenPlay,RightFoot,0.052,No Goal
+3,Igualada,7,Igualada,N/A,N/A,92,43,OpenPlay,RightFoot,0.461,Goal
+3,Igualada,8,Turo,N/A,N/A,21,56,OpenPlay,LeftFoot,0.049,No Goal
+3,Igualada,24,Turo,N/A,N/A,11,25,OpenPlay,RightFoot,0.039,No Goal
+3,Igualada,24,Igualada,N/A,N/A,71,27,Freekick,RightFoot,0.015,No Goal
+3,Igualada,17,Turo,N/A,N/A,10,42,OpenPlay,Head,0.081,No Goal
+3,Igualada,21,Turo,N/A,N/A,22,50,Freekick,LeftFoot,0.031,No Goal
+3,Igualada,24,Igualada,N/A,N/A,87,26,OpenPlay,RightFoot,0.038,No Goal
+3,Igualada,23,Igualada,N/A,N/A,77,51,OpenPlay,RightFoot,0.024,No Goal
+3,Igualada,23,Igualada,N/A,N/A,12,49,OpenPlay,Head,0.186,No Goal
+3,Igualada,4,Turo,N/A,N/A,90,32,OpenPlay,LeftFoot,0.045,No Goal
+3,Igualada,15,Turo,N/A,N/A,93,48,OpenPlay,RightFoot,0.185,Goal
+3,Igualada,17,Turo,N/A,N/A,94,46,OpenPlay,Head,0.152,No Goal
+3,Igualada,5,Turo,N/A,N/A,86,30,OpenPlay,LeftFoot,0.078,No Goal
+3,Igualada,22,Igualada,N/A,N/A,7,59,OpenPlay,LeftFoot,0.019,No Goal
+3,Igualada,11,Igualada,N/A,N/A,8,50,OpenPlay,RightFoot,0.286,No Goal
+3,Igualada,22,Igualada,N/A,N/A,5,64,OpenPlay,LeftFoot,0.135,No Goal
+3,Igualada,24,Igualada,N/A,N/A,10,41,OpenPlay,RightFoot,0.076,No Goal
+3,Igualada,4,Turo,N/A,N/A,99,40,OpenPlay,RightFoot,0.141,No Goal
+3,Igualada,8,Turo,N/A,N/A,56,39,OpenPlay,RightFoot,0.003,No Goal
+3,Igualada,17,Igualada,N/A,N/A,18,55,OpenPlay,LeftFoot,0.034,No Goal
+3,Igualada,9,Igualada,N/A,N/A,7,41,OpenPlay,Head,0.111,No Goal
+3,Igualada,9,Igualada,N/A,N/A,4,61,OpenPlay,Head,0.157,No Goal
+3,Igualada,9,Igualada,N/A,N/A,1,39,OpenPlay,Head,0.132,No Goal
+3,Igualada,24,Igualada,N/A,N/A,21,59,Freekick,RightFoot,0.035,No Goal
+4,Jupiter,21,Jupiter,1,12,78,53,OpenPlay,LeftFoot,0.052,No Goal
+4,Jupiter,9,Jupiter,4,23,94,40,OpenPlay,Head,0.114,No Goal
+4,Jupiter,21,Jupiter,7,23,77,57,Freekick,RightFoot,0.034,No Goal
+4,Jupiter,7,Jupiter,7,59,81,37,OpenPlay,RightFoot,0.036,No Goal
+4,Jupiter,11,Jupiter,10,56,69,21,OpenPlay,RightFoot,0.014,No Goal
+4,Jupiter,4,Jupiter,12,58,93,59,OpenPlay,Head,0.111,No Goal
+4,Jupiter,9,Jupiter,13,17,98,59,OpenPlay,Head,0.168,Goal
+4,Jupiter,11,Jupiter,13,30,93,30,OpenPlay,Head,0.044,No Goal
+4,Jupiter,8,Turo,19,27,23,53,OpenPlay,RightFoot,0.025,No Goal
+4,Jupiter,7,Jupiter,29,21,87,97,OpenPlay,RightFoot,0.009,No Goal
+4,Jupiter,7,Jupiter,23,20,91,73,OpenPlay,RightFoot,0.074,No Goal
+4,Jupiter,7,Jupiter,23,57,90,42,OpenPlay,Head,0.163,No Goal
+4,Jupiter,9,Jupiter,28,4,97,50,OpenPlay,RightFoot,0.682,Goal
+4,Jupiter,10,Jupiter,33,58,90,42,OpenPlay,LeftFoot,0.1,Goal
+4,Jupiter,17,Turo,37,5,1,55,OpenPlay,LeftFoot,0.046,No Goal
+4,Jupiter,21,Turo,40,41,3,58,OpenPlay,LeftFoot,0.135,No Goal
+4,Jupiter,21,Jupiter,45,0,76,41,OpenPlay,LeftFoot,0.027,Goal 
+4,Jupiter,7,Turo,49,29,89,28,OpenPlay,RightFoot,0.054,No Goal
+4,Jupiter,7,Turo,53,42,81,37,OpenPlay,LeftFoot,0.039,Goal
+4,Jupiter,21,Jupiter,58,24,4,31,OpenPlay,RightFoot,0.05,Goal
+4,Jupiter,21,Jupiter,61,33,16,37,OpenPlay,LeftFoot,0.038,No Goal
+4,Jupiter,12,Jupiter,65,52,11,64,OpenPlay,LeftFoot,0.115,No Goal
+4,Jupiter,10,Jupiter,70,34,21,53,OpenPlay,RightFoot,0.027,No Goal
+4,Jupiter,10,Jupiter,71,19,18,39,OpenPlay,RightFoot,0.052,No Goal
+4,Jupiter,4,Turo,72,57,89,50,Penalty,RightFoot,0.79,Goal
+4,Jupiter,6,Turo,79,39,99,45,OpenPlay,RightFoot,0.038,No Goal
+4,Jupiter,17,Turo,80,45,93,48,OpenPlay,Head,0.389,No Goal
+4,Jupiter,12,Jupiter,82,12,10,34,OpenPlay,LeftFoot,0.07,No Goal
+4,Jupiter,7,Turo,83,36,92,49,OpenPlay,RightFoot,0.212,No Goal
+4,Jupiter,11,Jupiter,86,56,13,42,OpenPlay,RightFoot,0.235,No Goal
