@@ -77,6 +77,6 @@ offsides = st.Page(
 )
 
 # --- NAVIGATION SETUP [WITHOUT SECTIONS] ---
-pg = st.navigation(pages=[home, match_stats, Possession, goals_and_xg, shooting, tackles, clearances, fouls, freekicks, saves, offsides])
+pg = st.navigation(Pages=[home, match_stats, Possession, goals_and_xg, shooting, tackles, clearances, fouls, freekicks, saves, offsides])
 
 # 
