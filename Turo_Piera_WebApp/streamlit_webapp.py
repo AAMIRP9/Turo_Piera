@@ -22,7 +22,7 @@ match_stats = st.Page(
     icon=":material/query_stats:",
 )
 
-Possession = st.Page(
+possession = st.Page(
     page="Pages/Possession.py",
     title="Possession",
     icon=":material/sports_soccer:",
@@ -77,6 +77,6 @@ offsides = st.Page(
 )
 
 # --- NAVIGATION SETUP [WITHOUT SECTIONS] ---
-pg = st.navigation(pages=[home, match_stats, Possession, goals_and_xg, shooting, tackles, clearances, fouls, freekicks, saves, offsides])
+pg = st.navigation(pages=[home, match_stats, possession, goals_and_xg, shooting, tackles, clearances, fouls, freekicks, saves, offsides])
 
 # 
