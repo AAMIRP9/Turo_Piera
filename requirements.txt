@@ -1,6 +1,3 @@
 pandas 
-matplotlib.pyplot
 matplotlib
-matplotlib.patches
-matplotlib.lines
 mplsoccer
