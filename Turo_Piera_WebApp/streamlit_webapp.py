@@ -10,68 +10,68 @@ import matplotlib.offsetbox as offsetbox
 # --- PAGE SETUP ---
 
 home = st.Page(
-    page="Pages/Home.py",
+    page="Home.py",
     title="Home", 
     icon=":material/home:",
     default=True,
 )
 
 match_stats = st.Page(
-    page="Pages/Match_Stats.py",
+    page="Match_Stats.py",
     title="Match Stats",
     icon=":material/query_stats:",
 )
 
 Possession = st.Page(
-    page="Pages/Possession.py",
+    page="Possession.py",
     title="Possession",
     icon=":material/sports_soccer:",
 )
 
 goals_and_xg = st.Page(
-    page="Pages/Goals_&_xG.py",
+    page="Goals_&_xG.py",
     title="Goals & xG",
     icon=":material/sports_soccer:",
 )
 
 shooting = st.Page(
-    page="Pages/Shooting.py",
+    page="Shooting.py",
     title="Shooting",
     icon=":material/sports_soccer:",
 )
 
 tackles = st.Page(
-    page="Pages/Tackles.py",
+    page="Tackles.py",
     title="Tackles",
     icon=":material/sports_soccer:",
 )
 
 clearances = st.Page(
-    page="Pages/Clearances.py",
+    page="Clearances.py",
     title="Clearances",
     icon=":material/sports_soccer:",
 )
 
 freekicks = st.Page(
-    page="Pages/Freekicks.py",
+    page="Freekicks.py",
     title="Freekicks",
     icon=":material/sports_soccer:",
 )
 
 fouls = st.Page(
-    page="Pages/Fouls.py",
+    page="Fouls.py",
     title="Fouls",
     icon=":material/sports_soccer:",
 )
 
 saves = st.Page(
-    page="Pages/Saves.py",
+    page="Saves.py",
     title="Saves",
     icon=":material/sports_soccer:",
 )
 
 offsides = st.Page(
-    page="Pages/Offsides.py",
+    page="Offsides.py",
     title="Offsides",
     icon=":material/sports_soccer:",
 )
